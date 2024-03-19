@@ -1,0 +1,50 @@
+[05:47:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:47:44] [ServerMain/INFO]: Loaded 7 recipes
+[05:47:44] [ServerMain/INFO]: Loaded 1271 advancements
+[05:47:44] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[05:47:44] [Server thread/INFO]: Loading properties
+[05:47:44] [Server thread/INFO]: Default game type: SURVIVAL
+[05:47:44] [Server thread/INFO]: Generating keypair
+[05:47:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:47:45] [Server thread/INFO]: Using epoll channel type
+[05:47:45] [Server thread/INFO]: Preparing level "world"
+[05:47:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:47:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:47:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:47:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:47:50] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[05:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[05:47:51] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[05:47:51] [Worker-Main-3/INFO]: Preparing spawn area: 12%
+[05:47:52] [Server thread/INFO]: Time elapsed: 4547 ms
+[05:47:52] [Server thread/INFO]: Done (6.950s)! For help, type "help"
+[05:48:23] [User Authenticator #1/INFO]: UUID of player ZakDess is 135c20c9-53b3-4e8e-8c29-43bfeb5698de
+[05:48:24] [Server thread/INFO]: ZakDess[/[0:0:0:0:0:0:0:1%0]:35382] logged in with entity id 85 at (-1008.3408465850899, 64.0, 2654.913322751442)
+[05:48:24] [Server thread/INFO]: ZakDess joined the game
+[05:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[05:48:44] [User Authenticator #2/INFO]: UUID of player MomazosPablo is 78cb0839-d965-4967-bbe2-52dbc9b387f1
+[05:48:45] [Server thread/INFO]: MomazosPablo[/[0:0:0:0:0:0:0:1%0]:42798] logged in with entity id 458 at (-1002.3501190009234, 64.0, 2657.25461593516)
+[05:48:45] [Server thread/INFO]: MomazosPablo joined the game
+[05:51:20] [Server thread/INFO]: Villager cev['Fletcher'/149, l='ServerLevel[world]', x=-1011.30, y=64.00, z=2658.38] died, message: 'Fletcher was slain by ZakDess'
+[05:54:44] [Server thread/INFO]: ZakDess was slain by Iron Golem
+[05:56:00] [Server thread/INFO]: Villager cev['Armorer'/131, l='ServerLevel[world]', x=-1007.20, y=65.00, z=2674.27] died, message: 'Armorer was slain by ZakDess'
+[06:00:56] [Server thread/INFO]: <ZakDess> Z
+[06:00:56] [Server thread/INFO]: <ZakDess> Z
+[06:00:56] [Server thread/INFO]: <ZakDess> Z
+[06:00:56] [Server thread/INFO]: <ZakDess> ZZ
+[06:00:57] [Server thread/INFO]: <ZakDess> Z
+[06:03:18] [Server thread/INFO]: <ZakDess> RAMIREZ
+[06:03:28] [Server thread/INFO]: <ZakDess> PERAME ESTA MI GEFE CAANDO EL PALO
+[06:03:37] [Server thread/INFO]: <ZakDess> 32 PALOS
+[06:03:43] [Server thread/INFO]: <ZakDess> DA ESTE BURRO
+[06:04:01] [Server thread/INFO]: ZakDess has made the advancement [What a Deal!]
+[06:04:25] [Server thread/INFO]: <ZakDess> Ya quedo el de los palos
+[06:04:35] [Server thread/INFO]: <ZakDess> ey
+[06:04:42] [Server thread/INFO]: <ZakDess> que otro ocupamos?
+[06:15:49] [Server thread/INFO]: <ZakDess> zz
+[06:18:07] [Server thread/INFO]: ZakDess lost connection: Disconnected
+[06:18:07] [Server thread/INFO]: ZakDess left the game
+[07:32:44] [Server thread/INFO]: MomazosPablo lost connection: Disconnected
+[07:32:44] [Server thread/INFO]: MomazosPablo left the game
